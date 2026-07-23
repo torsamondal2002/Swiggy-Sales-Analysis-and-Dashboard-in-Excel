@@ -1,4 +1,4 @@
-# 📊 Swiggy Sales Analysis Dashboard
+# Swiggy Sales Analysis Dashboard
 
 An end-to-end sales analytics project built entirely in **Microsoft Excel** to analyze Swiggy sales data and convert raw transactional records into meaningful business insights.
 
@@ -6,7 +6,7 @@ The project demonstrates how Excel can be used as a Business Intelligence tool b
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The objective of this project is to analyze Swiggy sales data, identify business trends, and create an interactive dashboard that helps stakeholders monitor sales performance across restaurants, cities, and states.
 
@@ -14,7 +14,7 @@ The dataset contains over **197,000 sales records** from **993 restaurants** acr
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Clean and prepare raw sales data
 - Perform exploratory data analysis
@@ -25,7 +25,7 @@ The dataset contains over **197,000 sales records** from **993 restaurants** acr
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Microsoft Excel
 - Power Query
@@ -36,7 +36,7 @@ The dataset contains over **197,000 sales records** from **993 restaurants** acr
 
 ---
 
-## 📂 Dataset Information
+## Dataset Information
 
 | Metric | Value |
 |---------|-------|
@@ -58,11 +58,9 @@ The dataset includes information such as:
 - Rating Count
 - Order Date
 
-:contentReference[oaicite:2]{index=2}
-
 ---
 
-## ⚙️ Project Workflow
+## Project Workflow
 
 ### 1. Data Cleaning
 - Removed duplicate records
@@ -92,7 +90,7 @@ Created an interactive dashboard using:
 
 ---
 
-## 📈 Dashboard KPIs
+##  Dashboard KPIs
 
 The dashboard highlights:
 
@@ -107,7 +105,7 @@ The dashboard highlights:
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 Some interesting observations from the analysis include:
 
@@ -119,7 +117,7 @@ Some interesting observations from the analysis include:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Swiggy-Sales-Analysis/
@@ -141,7 +139,7 @@ Swiggy-Sales-Analysis/
 
 ---
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - Data Transformation
@@ -154,7 +152,7 @@ Swiggy-Sales-Analysis/
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 This project strengthened practical knowledge of:
 
@@ -180,7 +178,7 @@ Possible enhancements include:
 
 ---
 
-## 👤 Author
+## Author
 
 **Torsa Mondal**
 
